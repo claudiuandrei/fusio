@@ -1,8 +1,14 @@
 {
   "name": "fusio",
-  "version": "0.0.0",
-  "description": "",
-  "keywords": [],
+  "version": "0.1.0",
+  "description": "Worflow management based on Elm Architecture",
+  "keywords": [
+    "workflow",
+    "engine",
+    "redux",
+    "saga",
+    "elm architecture"
+  ],
   "main": "dist/fusio.umd.js",
   "module": "dist/fusio.es5.js",
   "typings": "dist/types/fusio.d.ts",
@@ -12,7 +18,7 @@
   "author": "Claudiu Andrei <claudiu.andrei@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/claudiuandrei/fusio"
   },
   "license": "MIT",
   "engines": {

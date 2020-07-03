@@ -1,6 +1,6 @@
 # Fusio<sup>(n)</sup> Reactor
 
-## Worflow management based on Elm Architecture
+## Workflow management based on Elm Architecture
 
 Fusio<sup>(n)</sup> Reactor is a basic declarative worflow mangement that is inspired by Elm Architecture. It comes with out of the box connectors for Redux, but it is useful in many other contexts, or with other libraries.
 
